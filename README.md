@@ -1,8 +1,6 @@
 # Client-Server Event Manager
 
-## Overview
-This project is designed to simplify the process of connecting a client to a server.
----
+This repository contains a sample project for testing and learning socket programming in Delphi.
 
 ## Features
 - **Event-driven architecture:** Utilizes events to manage connections and communication between the client and server.
